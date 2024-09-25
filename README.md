@@ -24,5 +24,5 @@ The following SQL-based steps were taken to clean the data:
 #### 4. **Remove Unnecessary Columns**
    - Dropped any intermediate or temporary columns such as `row_num` that were used solely for cleaning purposes but were not part of the final dataset.
 
-### [SQL Source Code] (https://github.com/fatima-basharat/Data-Cleaning-Project/blob/main/DataCleaning.sql)
+[SQL Source Code] (https://github.com/fatima-basharat/Data-Cleaning-Project/blob/main/DataCleaning.sql)
 The SQL code used for the above operations is structured to ensure a clean, accurate, and usable dataset for further analysis.
